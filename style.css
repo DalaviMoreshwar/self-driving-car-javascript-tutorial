@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  background-color:aquamarine;
+  overflow: hidden;
+  text-align: center;
+}
+
+#simulationCanvas {
+  background-color: lightgrey;
+}
